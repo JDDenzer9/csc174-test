@@ -1,0 +1,22 @@
+This is a test file with numerous premier league teams:
+
+1. Tottenham
+2. Liverpool
+3. Manchester United
+4. West Brom
+5. Brighton
+6. Manchester City
+7. Newcastle
+8. Chelsea
+9. Watford
+10. Everton
+11. Arsenal
+12. Crystal Palace
+13. Burnley
+14. Leicester City
+15. Swansea City
+16. West Ham United
+17. Bournemouth
+18. Southampton
+19. Huddersfield Town
+20. Stoke City
